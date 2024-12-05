@@ -1,7 +1,7 @@
 [
-  { "name": "Empyriangaming", "subsPerHour": 200, "country": "EU" },
-  { "name": "GhazzyTv", "subsPerHour": 125, "country": "EU" },
+  { "name": "Empyriangaming", "subsPerHour": 200, "country": "EU" },  
   { "name": "Quin69", "subsPerHour": 66, "country": "NZ" },
-  { "name": "CuteDog_", "subsPerHour": 55, "country": "NA" },
-  { "name": "AlkaizerX", "subsPerHour": 22, "country": "NA" }
+  { "name": "GhazzyTv", "subsPerHour": 125, "country": "EU" },  
+  { "name": "AlkaizerX", "subsPerHour": 22, "country": "NA" },
+  { "name": "CuteDog_", "subsPerHour": 55, "country": "NA" }
 ]
