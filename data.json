@@ -1,7 +1,7 @@
 [
-  { "name": "StreamerA", "subsPerHour": 320, "country": "EU" },
-  { "name": "StreamerB", "subsPerHour": 125, "country": "EU" },
-  { "name": "StreamerC", "subsPerHour": 66, "country": "NZ" },
-  { "name": "CuteDog_", "subsPerHour": 54, "country": "NA" },
-  { "name": "StreamerE", "subsPerHour": 23, "country": "NZ" }
+  { "name": "Empyriangaming", "subsPerHour": 140, "country": "EU" },
+  { "name": "GhazzyTv", "subsPerHour": 125, "country": "EU" },
+  { "name": "Quin69", "subsPerHour": 66, "country": "NZ" },
+  { "name": "CuteDog_", "subsPerHour": 200, "country": "NA" },
+  { "name": "AlkaizerX", "subsPerHour": 74, "country": "NA" }
 ]
