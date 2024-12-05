@@ -1,0 +1,5 @@
+[
+  { "name": "StreamerA", "subsPerHour": 10 },
+  { "name": "StreamerB", "subsPerHour": 8 },
+  { "name": "StreamerC", "subsPerHour": 7 }
+]
