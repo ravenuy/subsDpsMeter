@@ -2,4 +2,6 @@
   { "name": "CuteDog_", "subsPerHour": 10 },
   { "name": "StreamerB", "subsPerHour": 8 },
   { "name": "StreamerC", "subsPerHour": 7 }
+  { "name": "StreamerD", "subsPerHour": 7 }
+  { "name": "StreamerE", "subsPerHour": 7 }
 ]
