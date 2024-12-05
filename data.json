@@ -1,7 +1,7 @@
 [
-  { "name": "CuteDog_", "subsPerHour": 320, "country": "NA" },
+  { "name": "StreamerA", "subsPerHour": 320, "country": "EU" },
   { "name": "StreamerB", "subsPerHour": 125, "country": "EU" },
   { "name": "StreamerC", "subsPerHour": 66, "country": "NZ" },
-  { "name": "StreamerD", "subsPerHour": 54, "country": "EU" },
+  { "name": "CuteDog_", "subsPerHour": 54, "country": "NA" },
   { "name": "StreamerE", "subsPerHour": 23, "country": "NZ" }
 ]
